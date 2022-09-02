@@ -1,0 +1,122 @@
+Trigonometry
+To find the distances and heights we can use the mathematical techniques, which come under the Trigonometry. It shows the relationship between the
+ sides and the angles of the triangle. Generally, it is used in the case of a right angle triangle.
+
+Trigonometric Ratios
+Right angle triangleIn a right angle triangle, the ratio of its side and the acute angles is the trigonometric ratios of the angles.
+
+In this right angle triangle QB = 90°. If we take QA as acute angle then -
+
+AB is the base, as the side adjacent to the acute angle.                        C|\
+                                                                                 | \ 
+BC is the perpendicular, as the side opposite to the acute angle.                |  \
+                                                                                 |   \
+Ac is the hypotenuse, as the side opposite to the right angle.                   |_   \
+                                                                                B|_|___\A
+Trigonometric ratios with respect to QA                                          
+
+Ratio	Formula	                     Short form	Value
+sin A	{Perpendicular}/{hypotenuse}	P/H	BC/AC
+cos A	{Base}/{hypotenuse}	        B/H	AB/AC
+tan A	{Perpendicular}/{base}   	P/B	BC/AB
+cosec A	{Hypotenuse}/{perpendicular}	H/P	AC/BC
+sec A	{Hypotenuse}/{base}	        H/B	AC/AB
+cot A	{Base}/{perpendicular}   	B/P	AB/BC
+Remark
+
+If we take QC as acute angle then BC will be base and AB will be perpendicular. Hypotenuse remains the same i.e. AC.So the ratios will be 
+according to that only.
+If the angle is same then the value of the trigonometric ratios of the angles remain the same whether the length of the side increases or decreases.
+In a right angle triangle, the hypotenuse is the longest side so sin A or cos A will always be less than or equal to 1 and the value of sec A or
+ cosec A will always be greater than or equal to 1.
+Reciprocal Relation between Trigonometric Ratios
+Cosec A, sec A, and cot A are the reciprocals of sin A, cos A, and tan A respectively.
+
+Reciprocal Relation between Trigonometric Ratios
+
+sin Q = 1/cosec Q 
+cos Q = 1/sec Q 
+tan Q = 1/cot Q 
+
+Quotient Relation
+
+Quotient Relation
+Trigonometric Ratios of Some Specific Angles
+Trigonometric Tables
+
+         Angle - 0°  30°   45°  60°   90° 
+sin Q            0   1/2  1/v2 v3/2   1
+cos Q            1  v3/2  1/v2  1/2   0
+tan Q            0  1/v3   1    v3    8
+cot Q            8   v3    1   1/v3   0
+sec Q            1  2/v3   v2   2     8
+cosecQ           8   2     v2  2/v3   1
+
+Use of Trigonometric Ratios and Table in Solving Problems
+Example
+
+Find the lengths of the sides BC and AC in Q ABC, right-angled at B where AB = 25 cm and QACB = 30°, using trigonometric ratios.
+
+Right-angled
+
+Solution
+
+To find the length of the side BC, we need to choose the ratio having BC and the given side AB. As we can see that BC is the side adjacent to angle
+C and AB is the side opposite to angle C, therefore
+
+tan c
+
+tan 30°
+
+Side adjacent
+
+BC = 25v3 cm
+
+To find the length of the side AC, we consider
+
+sin 30°
+
+AC = 50 cm
+
+Trigonometric Ratios of Complementary Angles
+If the sum of two angles is 90° then, it is called Complementary Angles. In a right-angled triangle, one angle is 90 °, so the sum of the other
+two angles is also 90° or they are complementary angles.so the trigonometric ratios of the complementary angles will be -
+
+sin (90° – A) = cos A,
+
+cos (90° – A) = sin A,
+
+tan (90° – A) = cot A,
+
+cot (90° – A) = tan A,
+
+sec (90° – A) = cosec A,
+
+cosec (90° – A) = sec A
+
+Trigonometric Identities (Pythagoras Identity)
+An equation is said to be a trigonometric identity if it contains trigonometric ratios of an angle and satisfies it for all values of the given 
+trigonometric ratios.
+
+Trigonometric Identities
+
+In QPQR, right angled at Q, we can say that
+
+
+PQ2 + QR2 = PR2
+
+Divide each term by PR2, we get
+
+Divide each term by PR2
+
+ (sin R)2 + (cos R)2 = 1
+
+sin2 R + cos2 R =1
+
+Likewise other trigonometric identities can also be proved. So the identities are-
+
+sin2 R + cos2 R = 1
+
+1 + tan2 R = sec2 R
+
+cot2 R + 1 = cosec2 R

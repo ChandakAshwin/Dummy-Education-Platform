@@ -1,0 +1,50 @@
+﻿Question :2. In allene (C3H4), the type(s) of hybridization of the carbon atoms is (are)  (IIT JEE-2011)
+
+a. sp & sp3
+b. sp and sp2
+c. only sp2
+d. sp2 and sp3
+
+Answer: b
+
+Solution: Allene are the molecules in which at least one C has double bonds with each of the adjacent carbon atoms..Structure of the allene C3H4 is
+
+
+
+The central carbon forms two sigma and two pi bonds with the two adjacent carbon atoms, so the central carbon is sp and the two terminal carbons are sp2 hybridised.
+Hence, the correct option is B.
+Question 2: The synthesis of 3-octyne is achieved by adding a bromoalkane into a mixture of sodium amine and an alkyne. The bromoalkane and alkyne respectively are (IIT-JEE 2010)
+
+a. BrCH2CH2CH2CH2CH3 and CH3CH2C≡CH
+b. BrCH2CH2CH3 andCH3CH2CH2C≡CH
+c. BrCH2CH2CH2CH2CH3 and CH3C≡CH
+d. BrCH2CH2CH2CH3 andCH3CH2C≡CH
+
+Answer:d
+
+Solution: 3-octyne contains a triple bond at carbon number 3. This indicates that both the reacting molecules must contain four carbon atoms. The only option in which both the molecules have four carbon atoms is d. Reactions involved are
+CH3CH2C≡CH+NaNH2 →CH3CH2C≡CNa
+CH3CH2C≡CNa +BrCH2CH2CH2CH3 →CH3CH2C≡CCH2CH2CH3
+Question:1, Compound (A) gives positive Lucas test in 5 minutes when 6.0 gm of (A) is treated with Na metal, 1120 ml of H2 is evolved at STP. Assuming (A) to contain one of oxygen per molecule, write structural formula of (A). Compound (A) when treated with PBr3 gives (B) which when treated with benzene in prsence of anhydrous AlCl3 gives (C). What are (B) and (C)?
+
+Answer:
+Solution:
+
+i) A gives Lucas test within 5 min. and thus (A) is secondary alcohol
+
+ii) (A) contains one O-atom and thus, only one O-H group in (A).
+
+      Thus, (A) is CnH2n+1 OH.
+
+iii) Since, 1120 ml of H2 is given by the action of Na over 6 gm (A)
+
+ 11200 ml H2 is given by the action of Na = (6×11200)/1120  = 60 gm (A)
+
+M.wt. of (A) is 60
+
+Since one mole of an alcohol having one OH group gives 11200 ml H2 at STP with Na.
+
+iv) CnH2n+1Oh = 60
+n = 3
+or (A) in C3H7OH; being secondary alcohol its formula is CH3.CHOH.CH3.
+

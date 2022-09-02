@@ -1,0 +1,77 @@
+﻿Question:1) Stability of the species Li2, Li2- , Li2+ increases in the order of:   (IIT JEE 2013)
+
+1. Li2-  < Li2+ < Li2
+
+2. Li2< Li2-  < Li2+
+
+3. Li2-< Li2  < Li2+
+
+4. Li2< Li2+  < Li2-
+
+Answer: A
+
+Solution:
+
+Stability of species depends on its bond order. Greater the bond order, more stable would be the species.
+
+Electronic configuration of Li2 = σ1s2, σ*1s2, σ2s2
+
+Bond Order = (No. of electrons in bonding orbitals –No. of electrons in antibonding orbitals)/2
+
+            = ½ (4-2) =1
+
+Electronic configuration of Li2+ = σ1s2, σ*1s2, σ2s1
+
+Bond Order = ½(3-2) = 0.5
+
+Electronic configuration of Li2- = σ1s2, σ*1s2, σ2s2, σ*2s1
+
+Bond Order = ½(4-3) = 0.5
+
+Bond order of both Li2+ and Li2- is same but  Li2+ will be more stable as it has lesser number of antibonding electrons.
+
+So, the correct order is Li2- < Li2+ < Li2
+
+And hence, the correct order is A. 
+
+Get Chapter Test for this Topic
+
+Question: 2 ) Which one of the following molecules is expected to exhibit diamagnetic behaviour? (IIT JEE 2013)
+
+1) N2
+2) O2
+3) S2
+4) C2
+
+Answer:
+
+N2(14) = σ1s2, σ*1s2, σ2s2, σ*2s2, σ2p6
+
+There is no unpaired electron so it is diamagnetic.
+
+O2(16) = s1s2, s* 1s2, s2s2 , s*2s2, s2p2x , p2py2  , p2pz2, p*2py1  , p2pz1
+
+There are two unpaired electrons in antibonding 2p orbitals, hence it is paramagnetic.
+
+C2(12) = σ1s2, σ*1s2, σ2s2, σ*2s2, p2py2 , p2pz2
+
+There are no unpaired electrons, hence it is diamagnetic.
+
+S2(32) = s1s2, s* 1s2, s2s2 , s*2s2, s2p2x , p2py2  , p2pz2, p*2py2  , p2pz2 , s*2p2x  s3s2 , s*3s2, s3p2x , p2py2  , p2pz2, p*2py1  , p2pz1
+
+There are two unpaired electrons in antibonding 3p orbitals, hence it is paramagnetic.
+
+Hence, b and c are the correct options.
+
+Question:3) The shape of XeO2F2 molecule is (IIT JEE -2012)
+
+1. trigonal bipyramidal
+2. square planar
+3. tetrahedral
+4. see-saw
+
+Answer: d
+
+Solution:
+
+XeO2F2 molecule has see-saw geometry with two F atoms on axial positions while two O atoms and a lone pair of electrons on equatorial positions

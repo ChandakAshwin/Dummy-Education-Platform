@@ -1,0 +1,120 @@
+Question 1 (Input Tax Credit)
+
+Shiva, a registered dealer had input tax credit for CGST and SGST Rs.750/- and Rs.1,050/- respectively in respect of purchase of inputs and capital goods.
+ He manufactured 1800 liters of finished products. 200 liters was normal loss in the process. The final product was sold at uniform price of Rs.10 per liter as follows:-
+
+Goods sold within State _ 800 liter.
+
+Finished product sold in inter-State sale _ 650 liter.
+
+Goods sent on stock transfer to consignment agents outside the State _ 350 liter.
+
+Further, CGST and SGST rate on the finished product of dealer is 5% and 7% respectively. Further IGST rate is 12%.Calculate tax liability of SGST and CGST 
+to be paid after tax credit.
+
+Solution:
+
+Output Tax Calculation
+
+Particulars	Sales Within State	Stock Transfer Outside State	Inter State Sales	Total
+Qty. Sold	800	350	650	
+Price per unit	10	10	10	
+Value of Goods Sold	8,000	3,500	6,500	18,000
+Tax Amount:				
+Tax Amount _ CGST(5%)	400	_	_	400
+Tax Amount _ SGST(7%)	560	_	_	560
+Tax Amount _ IGST(12%)	_	420	780	1,200
+Calculation of Tax Payable
+
+Particulars	CGST	SGST	IGST	 Total
+Tax Payable Amount	400	560	1200	 
+Less: Input Tax Credit				 
+CGST	400	_	350	750
+SGST	_	560	490	1050
+Balance Payable	_	_	360	360 
+Notes:
+
+There would be no treatment for normal loss.
+Input tax credit of CGST and SGST of Rs. 750 and Rs. 1050 are paid on inputs. This input tax credit should first be utilized for payment of CGST and SGST,
+ respectively, and balance is to be used for payment of IGST. Thus, balance available for payment of IGST is Rs. 350 of CGST and Rs. 490 of SGST and he is 
+liable to pay balance amount of IGST of Rs. 360 by cash (1200-350-490 = 360). Since credit of SGST of Rs.490 has been utilized for payment of IGST, the State
+ Government will get debit of Rs. 490 from the Central Government.
+Question 2 (Input Tax Credit)
+
+Now, continuing with the above example 2, suppose the dealer purchases goods interstate and have input tax credit of IGST available is Rs.2,000/-. 
+Compute the tax payable.
+
+Solution:
+
+Calculation of Tax Payable
+
+Particulars	CGST	SGST	IGST	
+Tax Payable Amount	400	560	1,200	
+Less: Input Tax Credit				
+CGST	_	_	_	
+SGST	_	_	_	
+IGST	400	400	1,200	2000
+Balance Payable	_	160.00	_	160
+Note: Input tax credit of Rs.2000, IGST is available. This input tax credit should first be utilized for payment of IGST and balance is to be used first
+ for payment of CGST and remaining for SGST. Likewise in this case Rs.400 and balance Rs.400 are utilized for CGST and SGST respectively. He is liable to pay
+ balance amount of SGST of Rs.160 by cash.(2000-1200-400-560 = 160).
+
+Question 3 (Import)
+
+Shri Shiva imported goods for Rs. 10,000/- and incurred expenses to produce final saleable goods. BCD @ 10 % was chargeable on imported goods. 
+These manufactured goods were sold within the state at Rs. 45,000 plus applicable GST. Rate of CGST and SGST is 5% and 7% respectively. Compute Cost, 
+Sale value and tax payable for the transaction.
+
+Solution: Calculation of Net cost of imported goods
+
+Particulars	Amount
+(Rs)
+Cost of Goods imported	10,000
+Add: Basic Customs Duty @ 10%	1,000
+Cost of imported goods (including BCD)	11,000
+Add: CGST on Import @ 5%	550
+Add: SGST on Import @ 7%	770
+Cost of imported goods (including BCD & GST) (Note below)	12,320
+Calculation of Sale value after import
+
+Particulars	Amount(Rs)
+Sale Value (before tax)	45,000
+Add: CGST on Import @ 5%	2,250
+Add: SGST on Import @ 7%	3,150
+Sales Value	50,400
+Tax Payable Calculation
+
+Particulars	CGST	SGST
+(Rs.)	(Rs.)
+Output tax	2,250	3,150
+Less: Input tax credit	_	_
+CGST	550	_
+SGST	_	770
+Net tax payable	1,700	2,380
+Note: Please note that GST shall be levied including Basic Customs Duty considering.
+
+Question 4(Export)
+
+Now continuing with the above example 4, suppose the same good is exported after 1 year of use after adding margin and modification amounting Rs.10,000/-
+ and use factor of 1 year for refund calculation is 0.20. Therefore the refund will be 0.80 of Duty amount. Compute Export Value and Refund Value.
+
+Solution: Export Value calculation
+
+Particulars	Amount
+(Rs)
+Cost of Imported Goods(from above example)	50,400
+Add: Margin and Modification Amt.	10,000
+Sale Value	60,400
+Add: CGST on Export @ 5%	_
+Add: SGST on Export @ 7%	_
+Export Value	60,400
+Refund Calculation
+
+Particulars	Amount
+(Rs)
+Basic Customs Duty(BCD, from above example)	1,000.00
+Refund Factor	0.80
+Refund amount of BDC	800.00
+Add: CGST(from above example)	550.00
+Add: SGST(from above example)	770.00
+Total Refund amount	2,120.00

@@ -1,0 +1,59 @@
+                                             PROJECTILE MOTION
+Projectile motion is a form of motion experienced by an object or particle (a projectile) that is thrown near the Earth's surface and moves 
+along a curved path under the action of gravity only (in particular, the effects of air resistance are assumed to be negligible). This curved 
+path was shown by Galileo to be a parabola. The study of such motions is called ballistics, and such a trajectory is a ballistic trajectory. 
+The only force of significance that acts on the object is gravity, which acts downward, thus imparting to the object a downward acceleration. 
+Because of the object's inertia, no external horizontal force is needed to maintain the horizontal velocity component of the object. Taking other 
+forces into account, such as friction from aerodynamic drag or internal propulsion such as in a rocket, requires additional analysis. A ballistic 
+missile is a missile only guided during the relatively brief initial powered phase of flight, and whose subsequent course is governed by the laws 
+of classical mechanics.
+Ballistics (greek ('ba'llein'), "to throw") is the science of mechanics that deals with the flight, behavior, and effects of projectiles, 
+especially bullets, unguided bombs, rockets, or the like; the science or art of designing and accelerating projectiles so as to achieve a desired 
+performance.
+The elementary equations of ballistics neglect nearly every factor except for initial velocity and an assumed constant gravitational acceleration. 
+Practical solutions of a ballistics problem often require considerations of air resistance, cross winds, target motion, varying acceleration due to 
+gravity, and in such problems as launching a rocket from one point on the Earth to another, the rotation of the Earth. Detailed mathematical 
+solutions of practical problems typically do not have closed-form solutions, and therefore require numerical methods to address.
+
+|     ___
+|    /   \
+|   /     \
+|  /       \
+| /         \
+|/___________\___________
+|             \   
+|              \   
+|               \
+|                \
+|                 \
+
+
+Few Examples of  Two – Dimensional Projectiles
+
+Throwing a ball or a cannonball
+The motion of a billiard ball on the billiard table.
+A motion of a shell fired from a gun.
+A motion of a boat in a river.
+The motion of the earth around the sun.
+When a particle is projected obliquely near the earth's surface, it moves simultaneously in the direction of horizontal and vertical. 
+The motion of such a particle is called Projectile Motion. In the above diagram, where a particle is projected at an angle , with an 
+initial velocity u. For this particular case, we will calculate the following:
+
+The time is taken to reach point A from O
+The horizontal distance covered (OA)
+The maximum height reached during the motion.
+The velocity at any time " t " during the motion.
+
+Quantity	                                      Value
+Components of velocity at time t                      vx = v0 cos0
+                                                      vy = v0 sin0–gt
+
+Position at time t	                              x = (v0 cos0)t
+                                                      y = (v0 sin0)t – 1/2 gt2
+
+Equation of path of projectile motion	              y = (tan 0)x – gx2/2(v0cos0)2
+Time of maximum height	                              tm = v0 sin0 /g
+Time of flight	                                      2tm = 2(v0 sin0/g)
+Maximum height of projectile	                      hm = (v0 sin0)2/2g
+Horizontal range of projectile	                      R = v02 sin 20/g
+Maximum horizontal range ( 0 = 45 )	              Rm = v02/g

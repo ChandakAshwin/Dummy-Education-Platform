@@ -1,0 +1,73 @@
+﻿Question 2: Find the height of a tree when it is found that on walking away from it 20 \ m ? in a horizontal line through its base, the elevation of its top changes from 60^o  to 30^o .
+
+Answer:
+
+From \triangle ABC 
+
+\frac{x}{BC}  = tan \ 60^o \Rightarrow BC =  \frac{x}{tan \ 60^o} 
+
+Similarly, from \triangle ADC 
+
+\frac{x}{20+BC}  = tan \ 30^o 
+
+Substituting from above
+
+x = (20 +  \frac{x}{tan \ 60^o})  tan \ 30^o 
+
+x(1-  \frac{tan \ 30^o}{tan \ 60^o}  ) = 30 \ tan \ 30^o 
+
+\Rightarrow x =  \frac{11.547}{0.6667}  = 17.32 \ m = 40.98 \ m 
+
+\\ 
+
+Question 3: Find the height of a building, when it is found that on walking towards it 40 \ m  in a horizontal line through its base the angular elevation of its top changes from 30^o  to 45^o .
+
+Answer:
+
+From \triangle ABC 
+
+\frac{h}{BC}  = tan \ 45^o \Rightarrow h = BC 
+
+Similarly, from \triangle ADB 
+
+\frac{h}{40+BC}  = tan \ 30^o 
+
+Substituting from above
+
+h = (40+ h) \ tan \ 30^o 
+
+h\ (1- tan \ 30^o) = 40 \ tan \ 30 
+
+\Rightarrow h =  \frac{40 \ tan \ 30^o}{1- tan \ 30^o}  = 54.64 \ m 
+
+\\ 
+
+Question 4: From the top of a light house 100 \ m  high, the angles of depression of two ships are observed as 48^o  and 36^o  respectively. Find the distance between the two ships (in the nearest meter) if:
+
+(i) the ships are on the same side of the light house,
+
+(ii) the ships are on the opposite sides of the light house. [2010]
+
+Answer:
+
+(i) From \triangle ABC 
+
+\frac{100}{BC}  = tan \ 48^o \Rightarrow BC =  \frac{100}{tan \ 48^o} 
+
+Similarly, from \triangle ADB 
+
+\frac{100}{DB}  = tan \ 36^o \Rightarrow DB =  \frac{100}{tan \ 36^o} 
+
+Therefore, the distance between the ships is =
+
+DB - BC  =  \frac{100}{tan \ 36^o} -  \frac{100}{tan \ 48^o} 
+
+= 100 (  \frac{tan \ 48^o - tan \ 36^o}{ tan \ 48^o . tan \ 36^o}) 
+
+=  \frac{100 \times 0.3841}{0.8069}  = 47.60 \approx 48  \ m 
+
+(ii) If the ships were on the opposite sides, then the distance between the ships is =
+
+DB + BC =  \frac{100}{tan \ 36^o} +  \frac{100}{tan \ 48^o} 
+
+= 90.040 + 136.63 = 227.68 \approx 228 \ m 

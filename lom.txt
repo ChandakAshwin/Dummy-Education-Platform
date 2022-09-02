@@ -1,0 +1,71 @@
+                                           LAWS OF MOTION
+Newton's laws of motion are three physical laws that, together, laid the foundation for classical mechanics. They describe the 
+relationship between a body and the forces acting upon it, and its motion in response to those forces. More precisely, the first law
+ defines the force qualitatively, the second law offers a quantitative measure of the force, and the third asserts that a single isolated
+ force doesn't exist. These three laws have been expressed in several ways, over nearly three centuries,[1] and can be summarised as follows:
+
+First law:	In an inertial frame of reference, an object either remains at rest or continues to move at a constant velocity, 
+unless acted upon by a force.
+Second law:	In an inertial frame of reference, the vector sum of the forces F on an object is equal to the mass m of that object
+multiplied by the acceleration a of the object: F = ma. (It is assumed here that the mass m is constant – see below.)
+Third law:	When one body exerts a force on a second body, the second body simultaneously exerts a force equal in magnitude and opposite
+in direction on the first body.
+
+Newton's first law
+The first law states that if the net force (the vector sum of all forces acting on an object) is zero, then the velocity of the object is constant.
+ Velocity is a vector quantity which expresses both the object's speed and the direction of its motion; therefore, the statement that the object's
+ velocity is constant is a statement that both its speed and the direction of its motion are constant.
+
+The first law can be stated mathematically when the mass is a non-zero constant, as,
+          net F=0 <=> dv/dt = 0
+Consequently,
+
+An object that is at rest will stay at rest unless a force acts upon it.
+An object that is in motion will not change its velocity unless a force acts upon it.
+This is known as uniform motion. An object continues to do whatever it happens to be doing unless a force is exerted upon it.
+If it is at rest, it continues in a state of rest (demonstrated when a tablecloth is skilfully whipped from under dishes on a 
+tabletop and the dishes remain in their initial state of rest). If an object is moving, it continues to move without turning or changing
+its speed. This is evident in space probes that continuously move in outer space. Changes in motion must be imposed against the tendency 
+of an object to retain its state of motion. In the absence of net forces, a moving object tends to move along a straight line path indefinitely.
+
+Newton placed the first law of motion to establish frames of reference for which the other laws are applicable. The first law of motion postulates
+the existence of at least one frame of reference called a Newtonian or inertial reference frame, relative to which the motion of a particle not 
+subject to forces is a straight line at a constant speed. Newton's first law is often referred to as the law of inertia. 
+Thus, a condition necessary for the uniform motion of a particle relative to an inertial reference frame is that the total net force acting 
+on it is zero. In this sense, the first law can be restated as:
+
+In every material universe, the motion of a particle in a preferential reference frame F is determined by the action of forces whose total 
+vanished for all times when and only when the velocity of the particle is constant in F. That is, a particle initially at rest or in uniform 
+motion in the preferential frame F continues in that state unless compelled by forces to change it.
+
+Newton's first and second laws are valid only in an inertial reference frame. Any reference frame that is in uniform motion with respect to an 
+inertial frame is also an inertial frame, i.e. Galilean invariance or the principle of Newtonian relativity.
+
+Newton's second law
+The second law states that the rate of change of momentum of a body is directly proportional to the force applied, and this change in momentum
+takes place in the direction of the applied force.
+          F=dp/dt=d(mv)/dt
+The second law can also be stated in terms of an object's acceleration. Since Newton's second law is valid only for constant-mass systems,can 
+be taken outside the differentiation operator by the constant factor rule in differentiation. Thus,
+          F=ma
+
+Newton's third law
+The third law states that all forces between two objects exist in equal magnitude and opposite direction: if one object A exerts a force FA 
+on a second object B, then B simultaneously exerts a force FB on A, and the two forces are equal in magnitude and opposite in direction: 
+FA = -FB. The third law means that all forces are interactions between different bodies,[25][26] or different regions within one body, 
+and thus that there is no such thing as a force that is not accompanied by an equal and opposite force. In some situations, the magnitude and 
+direction of the forces are determined entirely by one of the two bodies, say Body A; the force exerted by Body A on Body B is called the "action", 
+and the force exerted by Body B on Body A is called the "reaction". This law is sometimes referred to as the action-reaction law, with FA called 
+the "action" and FB the "reaction". In other situations the magnitude and directions of the forces are determined jointly by both bodies and it isn't 
+necessary to identify one force as the "action" and the other as the "reaction". The action and the reaction are simultaneous, and it does not matter 
+which is called the action and which is called reaction; both forces are part of a single interaction, and neither force exists without the other.
+
+The two forces in Newton's third law are of the same type (e.g., if the road exerts a forward frictional force on an accelerating car's tires, then 
+it is also a frictional force that Newton's third law predicts for the tires pushing backward on the road).
+
+From a conceptual standpoint, Newton's third law is seen when a person walks: they push against the floor, and the floor pushes against the person. 
+Similarly, the tires of a car push against the road while the road pushes back on the tires-the tires and road simultaneously push against each 
+other. In swimming, a person interacts with the water, pushing the water backward, while the water simultaneously pushes the person forward—both 
+the person and the water push against each other. The reaction forces account for the motion in these examples. These forces depend on friction; 
+a person or car on ice, for example, may be unable to exert the action force to produce the needed reaction force.
+

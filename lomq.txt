@@ -1,0 +1,61 @@
+                      MCQ-LAWS OF MOTION
+
+1.  The S.I. unit of force is
+         I. Kgm/s
+        II. Kgm/s2
+       III. Newton
+       IV. Newton-meter
+
+2.  What do we get by the product of mass and velocity?
+         I. Force
+        II. Inertia
+       III. Momentum
+       IV. Newton
+
+3.  The rate of change of momentum of an object is proportional to
+         I. Mass of the body
+        II. Velocity of the body
+       III. Net force applied on the body
+       IV. None of these
+
+4.  If two balls of same masses are dropped on sand, the depths of penetration is same if
+         I. Heavier ball is dropped faster than lighter ball
+        II. Lighter ball is dropped faster than heavier ball
+       III. The product ‘mv’ is same for both bodies
+       IV. None of these
+
+5.  A coin placed on a card(rested at the edges of the glass) remains at rest because of
+         I. Inertia of rest
+        II. Two forces act on the coin which balance each other
+       III. No unbalanced force acts on it
+       IV. All of these
+
+6.  A force of 50N moves a body,
+         I. Friction force exerted on the body is less than 50N
+        II. Friction force exerted on the body is more than 50N
+       III. None of these
+       IV. Both of I and II
+
+7.  A fielder giving a swing while catching a ball is an example of
+         I. Inertia
+        II. Momentum
+       III. Newton’s II law of motion
+       IV. Newton’s I law of motion
+
+8.  Action and reaction forces
+         I. Act on the same body
+        II. Act on different bodies
+       III. Act in same direction
+       IV. Both I and III
+
+9.  When we pedaling the bicycle it stops because
+         I. The earth’s gravitational force acts on it
+        II. It is not accelerated
+       III. No unbalanced force acts on it
+       IV. Frictional force acts on it
+
+10.  A football and a stone has same mass
+         I. Both have same inertia
+        II. Both have same momentum
+       III. Both have different inertia
+       IV. Both have different momentum
